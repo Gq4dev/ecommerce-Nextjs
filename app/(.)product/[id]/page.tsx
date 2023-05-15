@@ -1,7 +1,7 @@
 'use client'
 
 import ProductImage from "@/components/ProductImage";
-import { Dialog } from "@headlessui/React"
+import { Dialog } from "@headlessui/react"
 import { StarIcon as StarIconOutline } from "@heroicons/react/24/outline"
 import { StarIcon } from "@heroicons/react/24/solid"
 import Link from "next/link";
